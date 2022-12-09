@@ -4,7 +4,7 @@
 
 A feature request is a request for a new feature or an enhancement to an existing feature. 
 
-Generally features are requested through the use of the [feature request template](https://github.com/donny1234/Repyrean/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
+Generally features are requested through the use of the [feature request template](https://github.com/donnyboi1234/Repyrean/blob/main/ISSUE_TEMPLATE/feature_request.md).
 
 Ensure you do not create a duplicate feature request by searching through the [existing feature requests](https://github.com/donnyboi1234/Repyrean/issues?q=is%3Aissue+label%3Aenhancement++%5BFEAT.%5D+)
 
